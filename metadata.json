@@ -1,0 +1,6 @@
+{
+  "name": "Cricket Predictor AI",
+  "description": "An AI-powered cricket match predictor that analyzes team data, player stats, and match conditions to forecast the winner and a dream team.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
